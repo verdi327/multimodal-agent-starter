@@ -8,7 +8,6 @@ This repository is designed to pair with [this Agent Building Guidebook](https:/
 
 You can be up and running in under a minute. [A full setup walk-through is here](https://docs.steamship.com/agent-guidebook/core-concepts/project-layout).
 
-My first commit :)
 
 Clone this repository, then set up a Python virtual environment with:
 
